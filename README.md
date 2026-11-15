@@ -33,6 +33,7 @@ I have a technical foundation in ethical hacking, network security and security 
 ## 🏆 Achievements
 
 - **Reboot CTF**: placed 9th out of 39 participants
+- **TryHackMe**: Gold League winner (December 2025)
 - **TryHackMe**: Silver League winner (December 2025)
 - **TryHackMe**: top-5 finishes on the weekly leaderboard (5th twice in December 2025, 3rd in October 2026)
 
@@ -47,8 +48,8 @@ Coursework: IoT, Computer Science, Robotics, Information Technology, Database Sy
 
 - [Advent of Cyber 2025](certificates/tryhackme-advent-of-cyber-2025.png), TryHackMe (December 2025), certificate of completion for 24 cybersecurity challenges
 - [Open-source Intelligence (OSINT)](certificates/basel-institute-osint-2025.pdf), Basel Institute on Governance (September 2025)
-- Responsive Web Design, freeCodeCamp (2025)
-- Relational Databases, freeCodeCamp (2025)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/mohammed_adel23726/responsive-web-design), freeCodeCamp (September 2025), about 300 hours
+- [Relational Databases](https://www.freecodecamp.org/certification/mohammed_adel23726/relational-database-v8), freeCodeCamp (December 2025), about 300 hours
 - CompTIA Security+ (in progress)
 
 ---
