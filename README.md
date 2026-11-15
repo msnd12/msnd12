@@ -1,49 +1,66 @@
-# Hi there 👋
+# Mohammed Adel 👋
 
-**Cybersecurity student** at **Nasser Centre for Science & Technology** (Bahrain), studying *Advanced Innovative Technology (Cybersecurity)*. Expected graduation: **June 2027**.
+**Cybersecurity student** at **Nasser Center for Science and Technology** (Bahrain) | Advanced Innovative Technology – Cybersecurity | Expected graduation: **June 2027**
 
-🔎 **Looking for an on-the-job training (OJT) placement** in a SOC, blue-team, or security engineering role.
+🔎 **Seeking an on-the-job training (OJT) placement** where I can apply my security knowledge to real-world work and learn under professional mentorship.
 
 ---
 
-## 🎯 Focus areas
+## 👤 About
 
-- Email and phishing threat detection
-- SOC / SIEM workflows and alert triage
-- Applied cryptography and hashing
-- Building small, well-documented security tools
+I have a technical foundation in ethical hacking, network security and security operations. I work with penetration testing methodologies, the OWASP Top 10, OSINT, Active Directory, and defensive tooling such as Nmap, Wireshark and Kali Linux. I'm most interested in threat detection, incident response and secure infrastructure.
 
 ## 🛠️ Skills
 
-| Area | Tools |
+| Area | What I work with |
 | --- | --- |
-| Languages | Python, TypeScript, SQL |
-| Backend | NestJS, PostgreSQL, REST APIs |
-| Security tooling | VirusTotal, urlscan.io, Google Safe Browsing, Gmail API (OAuth 2.0) |
-| Practices | Git, unit testing, written documentation |
+| Cybersecurity | Penetration testing, incident response, SOC, OSINT, OWASP Top 10, phishing awareness and defense, Active Directory, cryptography |
+| Tools and OS | Kali Linux, command line, SIEM fundamentals, Nmap, Wireshark |
+| Networking | TCP/IP, OSI model, network security, firewalls, traffic analysis |
+| Programming | Python, TypeScript, JavaScript, Java, HTML, CSS, YAML, SQL |
+| Concepts | Bind and reverse shells, forward and reverse proxies |
 
 ---
 
 ## 🚀 Projects
 
-| Project | What it does | Stack |
+| Project | What it does | Tools |
 | --- | --- | --- |
-| [**Email SOC Phishing MVP**](https://github.com/msnd12/email-soc-phishing-mvp) | End-to-end phishing detection for a SOC dashboard: Gmail ingestion, URL extraction, threat-intel lookups, explainable risk scoring, analyst verdicts and audit logs. | TypeScript, NestJS, PostgreSQL |
-| [**Hash Collision Detector**](https://github.com/msnd12/hash-collision-detector) | Command-line tool that scans files and reports true hash collisions (MD5, SHA-1, SHA-256, SHA-512), with JSON output and chunked reads. | Python |
+| [**Email SOC Phishing MVP**](https://github.com/msnd12/email-soc-phishing-mvp) | Phishing detection for a SOC/SIEM dashboard. Ingests real Gmail messages, extracts URLs, checks them with VirusTotal, urlscan.io and Google Safe Browsing, scores risk with an explainable engine, and records analyst verdicts and audit logs. | TypeScript, NestJS, PostgreSQL, Docker |
+| [**Hash Collision Detector**](https://github.com/msnd12/hash-collision-detector) | Command-line tool that scans files and reports true hash collisions (MD5, SHA-1, SHA-256, SHA-512), with JSON output and chunked file reads. | Python |
+| **Microsoft 365 AiTM Phishing Defense Research** | Researched and demonstrated an adversary-in-the-middle phishing attack on Microsoft 365 using Evilginx2, then designed and deployed countermeasures: phishing-resistant MFA, conditional access and proxy detection. Presented both attack and defense to cybersecurity professionals and Ministry of Interior trainees. | Evilginx2, Nginx, Microsoft 365, Python |
 
-**In progress:** graduation project, a layered defense platform against adversary-in-the-middle (AiTM) phishing.
+## 🏆 Achievements
+
+- **Reboot CTF**: placed 9th out of 39 participants
+- **TryHackMe**: Advent of Cyber certificate of completion
+
+## 🎓 Education
+
+**Nasser Center for Science and Technology**, expected June 2027
+High School Certificate, Scientific Stream. Specialization: Advanced Innovative Technology – Cybersecurity
+
+Coursework: IoT, Computer Science, Robotics, Information Technology, Database Systems, Programming Languages, Web Development, Practical Ethical Hacking, OSINT, Mobile Penetration Testing, Security Operations Center (SOC)
+
+## 📜 Certifications
+
+- Responsive Web Design, freeCodeCamp (2025)
+- Relational Databases, freeCodeCamp (2025)
+- CompTIA Security+ (in progress)
+
+---
 
 ## 📝 Write-ups
 
-Lab, CTF and research write-ups will be published here as I complete them.
+CTF, lab and research write-ups will be published here as I complete them.
 
 ## 📚 Documentation
 
 Each project keeps its own README with setup instructions, screenshots and design notes. Longer technical notes will be linked here.
 
-## 🎓 Education
+## 🌐 Languages
 
-- **Nasser Centre for Science & Technology**: Advanced Innovative Technology (Cybersecurity), expected June 2027
+Arabic (native) · English (C1 Advanced)
 
 ---
 
