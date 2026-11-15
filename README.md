@@ -33,7 +33,8 @@ I have a technical foundation in ethical hacking, network security and security 
 ## 🏆 Achievements
 
 - **Reboot CTF**: placed 9th out of 39 participants
-- **TryHackMe**: Advent of Cyber certificate of completion
+- **TryHackMe**: Silver League winner (December 2025)
+- **TryHackMe**: top-5 finishes on the weekly leaderboard (5th twice in December 2025, 3rd in October 2026)
 
 ## 🎓 Education
 
@@ -44,6 +45,8 @@ Coursework: IoT, Computer Science, Robotics, Information Technology, Database Sy
 
 ## 📜 Certifications
 
+- [Advent of Cyber 2025](certificates/tryhackme-advent-of-cyber-2025.png), TryHackMe (December 2025), certificate of completion for 24 cybersecurity challenges
+- [Open-source Intelligence (OSINT)](certificates/basel-institute-osint-2025.pdf), Basel Institute on Governance (September 2025)
 - Responsive Web Design, freeCodeCamp (2025)
 - Relational Databases, freeCodeCamp (2025)
 - CompTIA Security+ (in progress)
